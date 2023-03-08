@@ -1,4 +1,4 @@
-    FROM amazoncorrectto:8-alpine-jdk 
+    FROM amazoncorrectto:17 
 MAINTAINER LEO 
-COPY target/yoProgramo-0.0.1-SNAPSHOT.jar leo-app.jar 
+COPY target/yoProgramo-0.0.1-SNAPSHOT.jar app.jar 
 ENTRYPOINT ["java","-jar","/leo-app.jar"]     
