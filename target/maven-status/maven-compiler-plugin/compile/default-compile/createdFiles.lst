@@ -17,6 +17,7 @@ com\portfolio\yoProgramo\security\service\UserDetailsImpl.class
 com\portfolio\yoProgramo\repository\EstudioRepository.class
 com\portfolio\yoProgramo\repository\ExperienciaRepository.class
 com\portfolio\yoProgramo\security\dto\NuevoUsuario.class
+.netbeans_automatic_build
 com\portfolio\yoProgramo\security\jwt\JwtProvider.class
 com\portfolio\yoProgramo\service\IPersonaService.class
 com\portfolio\yoProgramo\controller\PersonaControlador.class
