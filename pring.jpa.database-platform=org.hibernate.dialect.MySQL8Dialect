@@ -1,0 +1,922 @@
+[33mcommit 18c111b0f14236aa4dce801ddbfe997da72d0b0f[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Sat Mar 11 14:24:25 2023 -0300
+
+    1
+
+[33mcommit d0ad5663d294d8aa1fe8854cc1092f919b1c5a77[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Sat Mar 11 14:11:15 2023 -0300
+
+    a3
+
+[33mcommit 9e7c39507e3385852504132d1f97ae4c1d1642cb[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Sat Mar 11 14:08:46 2023 -0300
+
+    a2
+
+[33mcommit 2a168a91a9de5025d9377d89a4debceb8178979c[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Sat Mar 11 13:28:08 2023 -0300
+
+    1a
+
+[33mcommit 4b3ebf180f000565d40df1ca024e8207ef16b723[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Thu Mar 9 14:59:57 2023 -0300
+
+    31
+
+[33mcommit c6b840dd9e01998a72c7fe999a72f3d13433e5b5[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Thu Mar 9 14:45:21 2023 -0300
+
+    36
+
+[33mcommit ddeb57f5116beccaaa7e86197fa70c7354c9592c[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Thu Mar 9 14:36:44 2023 -0300
+
+    19
+
+[33mcommit a5c08ea2a6d7c3c13f0af1babd7b2b9ae34b356f[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Thu Mar 9 14:03:11 2023 -0300
+
+    20
+
+[33mcommit cc91d4582688130b4c4c10f10a0e6dbf4296ab0b[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Thu Mar 9 13:55:48 2023 -0300
+
+    11
+
+[33mcommit d5aa1f86f2d8ae3708c22a8ec424e7cb8a0cfff5[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Thu Mar 9 13:43:38 2023 -0300
+
+    12
+
+[33mcommit 7ef6141531bd10958d3236e77c17f62892f5e0ed[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Thu Mar 9 13:35:49 2023 -0300
+
+    6
+
+[33mcommit 9cf6feb55fe9b5b9c59c7985eeb0466dc8a25d5b[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Thu Mar 9 13:34:52 2023 -0300
+
+    5
+
+[33mcommit 07ee10fb39458d61f0ab140c7bf10aa41e76c38e[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Thu Mar 9 13:24:46 2023 -0300
+
+    3
+
+[33mcommit 2068cde6699bdbad423e79bfdea64ca641bcfece[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Thu Mar 9 13:13:54 2023 -0300
+
+    2
+
+[33mcommit 77fbf92c57feefd551c49391dfd2deca46f8849a[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Thu Mar 9 12:45:52 2023 -0300
+
+    1
+
+[33mcommit d6fa06b5e6e0ef6fd759b387479610880cc865a6[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Thu Mar 9 01:35:59 2023 -0300
+
+    15
+
+[33mcommit 3bfc7639cd839c202f941d89404628e3451f21b5[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Thu Mar 9 01:27:59 2023 -0300
+
+    13
+
+[33mcommit 54ef4577a5660658c08b467f3444a7d3461e376d[m
+Merge: a2f9219 5e0cd3c
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Thu Mar 9 01:20:22 2023 -0300
+
+    12
+
+[33mcommit a2f9219b29b66df78930db15bf6f3db63d6b1f42[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Thu Mar 9 01:16:54 2023 -0300
+
+    md
+
+[33mcommit 5e0cd3c34239a64291c7ccb86477b189dc16f8db[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Thu Mar 9 00:26:02 2023 -0300
+
+    1
+
+[33mcommit 2905d3e4501b6331e8a07f31417b1db43bd9a177[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Thu Mar 9 00:19:57 2023 -0300
+
+    Update yoProgramo-0.0.1-SNAPSHOT.jar
+
+[33mcommit 3dc901c42437389567e55c357cc5b23267f2c1af[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Thu Mar 9 00:19:53 2023 -0300
+
+    326
+
+[33mcommit 19613029c55efd879b361ee920b028609a6705e5[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Thu Mar 9 00:14:57 2023 -0300
+
+    129
+
+[33mcommit 5af3cab3f7e23387cf5133e706eadbabc789aebc[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Thu Mar 9 00:05:12 2023 -0300
+
+    19
+
+[33mcommit d61809c5dae39f2d6ce43768c2682d91d577e0d0[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Wed Mar 8 23:34:53 2023 -0300
+
+    19
+
+[33mcommit 69c28c85b04b45dd122e96cd685b7243658ecc39[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Wed Mar 8 22:53:33 2023 -0300
+
+    jdk17
+
+[33mcommit 437e21e90b1c42784006e9be628d7dd31cb6c700[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Wed Mar 8 22:44:15 2023 -0300
+
+    jdk8
+
+[33mcommit 58941105938485db7e92d3277e2d7b11894f0259[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Wed Mar 8 22:41:55 2023 -0300
+
+    jdk11.2
+
+[33mcommit 1261a4eb753d963ed77880611673ea1582bb22d9[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Wed Mar 8 22:32:11 2023 -0300
+
+    jdk11
+
+[33mcommit 54acfdadfa33567312beb34aff4d5e41b27bb6be[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Wed Mar 8 22:24:17 2023 -0300
+
+    145
+
+[33mcommit cfa6744ebc54e81c97a33cac125b9cc0233f2eaa[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Wed Mar 8 22:15:59 2023 -0300
+
+    128
+
+[33mcommit 33c9165fa454ca9566b7411b7139e477f44dd6ac[m
+Merge: bab381a baa6063
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Wed Mar 8 22:10:03 2023 -0300
+
+    129
+
+[33mcommit bab381a97e60ba1062125be1f99b0a70c1444e56[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Wed Mar 8 22:06:37 2023 -0300
+
+    a23
+
+[33mcommit baa60636a1d51d361f0009b8400f495680cd984c[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 12:10:01 2023 -0300
+
+    144
+
+[33mcommit b2c7e1b39a5273ebe5b34a7b39cdff8271c97caa[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 12:00:34 2023 -0300
+
+    133
+
+[33mcommit 58faeb6b4cb0f59ead16f6b0a523df3ee7a5794a[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 11:51:34 2023 -0300
+
+    166
+
+[33mcommit 52f00a3abf61f94990d43a418c87dc2d90eba222[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 11:41:36 2023 -0300
+
+    vamoo
+
+[33mcommit 78461be2fbc9025a6da57dc64c3f4d359db53523[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 11:39:20 2023 -0300
+
+    44
+
+[33mcommit dc5bf98efe34337137e0597743af6d3c897fce10[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 11:36:24 2023 -0300
+
+    b11
+
+[33mcommit f418475ee5d81bbd9c22d3369b4d3b2fcd504944[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 11:25:56 2023 -0300
+
+    m22
+
+[33mcommit b14e9249b8ebc0710e2708305bd7e621f0fe47d9[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 11:22:55 2023 -0300
+
+    m13
+
+[33mcommit 15cf05762d16b0c5373d461489afa4fe9cf01897[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 11:06:20 2023 -0300
+
+    1l
+
+[33mcommit a02308c529319141974c6dcef2997e26bc183a18[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 10:54:36 2023 -0300
+
+    m1
+
+[33mcommit e2f92ebca408550dd9e0c330425eff228ea00b2f[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 10:46:01 2023 -0300
+
+    15
+
+[33mcommit dc52abcdbf9d7a3733d53de403fd8cad5fbf4a95[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 10:28:50 2023 -0300
+
+    v1
+
+[33mcommit ff485cd2e3582269ccc24c49732ade77d4333576[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 10:14:41 2023 -0300
+
+    c1
+
+[33mcommit 58c984a1ec64ebe1fdd6fb475a1f534e33bf460a[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 10:03:19 2023 -0300
+
+    a8
+
+[33mcommit 9c7355890d7496e98c87be54198142fa3132c51b[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 05:29:33 2023 -0300
+
+    2552
+
+[33mcommit f1835875cbbb6f16e5785d2f9644b8e558933e07[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 05:21:14 2023 -0300
+
+    514
+
+[33mcommit 84ff64bb07240acae1b95e72878f652bdea6135d[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 05:10:19 2023 -0300
+
+    111
+
+[33mcommit bf907dfdccc75b378ae4998ab74a0400f417a340[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 05:00:00 2023 -0300
+
+    111
+
+[33mcommit 1b6154606ce93cfe71b1c7b96aa193c1fa94d718[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 04:44:43 2023 -0300
+
+    s2
+
+[33mcommit 99de87f413bfe09ee035a477439cd7db8efb31cc[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 04:31:49 2023 -0300
+
+    56
+
+[33mcommit d0a860702ee76287dee090cf4fbab46760e04a0a[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 04:23:23 2023 -0300
+
+    ñ1
+
+[33mcommit 660063cf2e5146e7c5814af2a73ec6a4df017109[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 04:19:29 2023 -0300
+
+    30
+
+[33mcommit e22210ff6c90541edece07795d70a4d2b8b55a4f[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 04:19:14 2023 -0300
+
+    12
+
+[33mcommit c7bb9cee352a65728cf367efe3e1603771001a74[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 04:07:10 2023 -0300
+
+    13
+
+[33mcommit fee7f5b3f8a327e94a4998ff6e6c0851f4d61aa6[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 03:40:14 2023 -0300
+
+    12
+
+[33mcommit f1d4806b5c6e50e3a0e50221fa57a69cc13b90f0[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 03:31:04 2023 -0300
+
+    2
+
+[33mcommit 9d4833b5711cc1380c26ba5a1680ac10be9ff582[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 01:41:05 2023 -0300
+
+    122
+
+[33mcommit 3ad6b1c989d2d35c806afc29dfe4a6be02709e79[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 01:11:51 2023 -0300
+
+    a1
+
+[33mcommit 5a49f9ff81a5034bbbeff17919dd695d9c8230aa[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 00:44:38 2023 -0300
+
+    9
+
+[33mcommit dd595052797aa2ee1bc81a796ea0ec927d18fef6[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 00:34:58 2023 -0300
+
+    8
+
+[33mcommit 47d34c81d22daeb615461c0c5cdf96a0633a55fa[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 00:21:30 2023 -0300
+
+    7
+
+[33mcommit 217d67af2dbcd1aa564fdb800822882fbba57427[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Tue Mar 7 23:33:58 2023 -0300
+
+    6
+
+[33mcommit 9a364d5d6a3ce26c8d6b90adbed099b659f5ab2b[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Tue Mar 7 23:16:21 2023 -0300
+
+    5
+
+[33mcommit 29c6a8a0905f888fd643ba8197891beb1db0df3d[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Tue Mar 7 23:13:49 2023 -0300
+
+    3
+
+[33mcommit a8ec57f67e016fd5b21b5305d009679b905bbf74[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Tue Mar 7 23:03:07 2023 -0300
+
+    3
+
+[33mcommit 46beb4a7d6c8859668d637c7dc3506355e856e3a[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Tue Mar 7 22:38:03 2023 -0300
+
+    2
+
+[33mcommit f75fd62db45b599c1f3055122d4f33fc15c0f4dd[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Tue Mar 7 22:33:31 2023 -0300
+
+    1
+
+[33mcommit bc435bc518f85b94c63512a3914a3051fae49b31[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Tue Mar 7 22:27:06 2023 -0300
+
+    ahora
+    
+    si
+
+[33mcommit 8af09bf7d346634be6922743c8a12eb36c94c15b[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Tue Mar 7 22:15:20 2023 -0300
+
+    cambiando
+    
+    camboi1
+
+[33mcommit 868f8a3505969b381c4920aa7f6607c693dd00e6[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Tue Mar 7 19:16:03 2023 -0300
+
+    Ultima
+
+[33mcommit 06930217f72b414033cc056846ce7b6147382b6d[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Tue Mar 7 19:05:36 2023 -0300
+
+    correccion
+
+[33mcommit 468c69d51a3e0b28539ee0250b1a0ff4286afc05[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Tue Mar 7 18:44:56 2023 -0300
+
+    Dockerfile
+
+[33mcommit 05fba6f0ba54a27a9b838bfad412124d5986a45c[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Fri Jan 27 14:25:55 2023 -0300
+
+    Initial commit
+[33mcommit 18c111b0f14236aa4dce801ddbfe997da72d0b0f[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Sat Mar 11 14:24:25 2023 -0300
+
+    1
+
+[33mcommit d0ad5663d294d8aa1fe8854cc1092f919b1c5a77[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Sat Mar 11 14:11:15 2023 -0300
+
+    a3
+
+[33mcommit 9e7c39507e3385852504132d1f97ae4c1d1642cb[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Sat Mar 11 14:08:46 2023 -0300
+
+    a2
+
+[33mcommit 2a168a91a9de5025d9377d89a4debceb8178979c[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Sat Mar 11 13:28:08 2023 -0300
+
+    1a
+
+[33mcommit 4b3ebf180f000565d40df1ca024e8207ef16b723[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Thu Mar 9 14:59:57 2023 -0300
+
+    31
+
+[33mcommit c6b840dd9e01998a72c7fe999a72f3d13433e5b5[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Thu Mar 9 14:45:21 2023 -0300
+
+    36
+
+[33mcommit ddeb57f5116beccaaa7e86197fa70c7354c9592c[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Thu Mar 9 14:36:44 2023 -0300
+
+    19
+
+[33mcommit a5c08ea2a6d7c3c13f0af1babd7b2b9ae34b356f[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Thu Mar 9 14:03:11 2023 -0300
+
+    20
+
+[33mcommit cc91d4582688130b4c4c10f10a0e6dbf4296ab0b[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Thu Mar 9 13:55:48 2023 -0300
+
+    11
+
+[33mcommit d5aa1f86f2d8ae3708c22a8ec424e7cb8a0cfff5[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Thu Mar 9 13:43:38 2023 -0300
+
+    12
+
+[33mcommit 7ef6141531bd10958d3236e77c17f62892f5e0ed[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Thu Mar 9 13:35:49 2023 -0300
+
+    6
+
+[33mcommit 9cf6feb55fe9b5b9c59c7985eeb0466dc8a25d5b[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Thu Mar 9 13:34:52 2023 -0300
+
+    5
+
+[33mcommit 07ee10fb39458d61f0ab140c7bf10aa41e76c38e[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Thu Mar 9 13:24:46 2023 -0300
+
+    3
+
+[33mcommit 2068cde6699bdbad423e79bfdea64ca641bcfece[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Thu Mar 9 13:13:54 2023 -0300
+
+    2
+
+[33mcommit 77fbf92c57feefd551c49391dfd2deca46f8849a[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Thu Mar 9 12:45:52 2023 -0300
+
+    1
+
+[33mcommit d6fa06b5e6e0ef6fd759b387479610880cc865a6[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Thu Mar 9 01:35:59 2023 -0300
+
+    15
+
+[33mcommit 3bfc7639cd839c202f941d89404628e3451f21b5[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Thu Mar 9 01:27:59 2023 -0300
+
+    13
+
+[33mcommit 54ef4577a5660658c08b467f3444a7d3461e376d[m
+Merge: a2f9219 5e0cd3c
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Thu Mar 9 01:20:22 2023 -0300
+
+    12
+
+[33mcommit a2f9219b29b66df78930db15bf6f3db63d6b1f42[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Thu Mar 9 01:16:54 2023 -0300
+
+    md
+
+[33mcommit 5e0cd3c34239a64291c7ccb86477b189dc16f8db[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Thu Mar 9 00:26:02 2023 -0300
+
+    1
+
+[33mcommit 2905d3e4501b6331e8a07f31417b1db43bd9a177[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Thu Mar 9 00:19:57 2023 -0300
+
+    Update yoProgramo-0.0.1-SNAPSHOT.jar
+
+[33mcommit 3dc901c42437389567e55c357cc5b23267f2c1af[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Thu Mar 9 00:19:53 2023 -0300
+
+    326
+
+[33mcommit 19613029c55efd879b361ee920b028609a6705e5[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Thu Mar 9 00:14:57 2023 -0300
+
+    129
+
+[33mcommit 5af3cab3f7e23387cf5133e706eadbabc789aebc[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Thu Mar 9 00:05:12 2023 -0300
+
+    19
+
+[33mcommit d61809c5dae39f2d6ce43768c2682d91d577e0d0[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Wed Mar 8 23:34:53 2023 -0300
+
+    19
+
+[33mcommit 69c28c85b04b45dd122e96cd685b7243658ecc39[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Wed Mar 8 22:53:33 2023 -0300
+
+    jdk17
+
+[33mcommit 437e21e90b1c42784006e9be628d7dd31cb6c700[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Wed Mar 8 22:44:15 2023 -0300
+
+    jdk8
+
+[33mcommit 58941105938485db7e92d3277e2d7b11894f0259[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Wed Mar 8 22:41:55 2023 -0300
+
+    jdk11.2
+
+[33mcommit 1261a4eb753d963ed77880611673ea1582bb22d9[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Wed Mar 8 22:32:11 2023 -0300
+
+    jdk11
+
+[33mcommit 54acfdadfa33567312beb34aff4d5e41b27bb6be[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Wed Mar 8 22:24:17 2023 -0300
+
+    145
+
+[33mcommit cfa6744ebc54e81c97a33cac125b9cc0233f2eaa[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Wed Mar 8 22:15:59 2023 -0300
+
+    128
+
+[33mcommit 33c9165fa454ca9566b7411b7139e477f44dd6ac[m
+Merge: bab381a baa6063
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Wed Mar 8 22:10:03 2023 -0300
+
+    129
+
+[33mcommit bab381a97e60ba1062125be1f99b0a70c1444e56[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Wed Mar 8 22:06:37 2023 -0300
+
+    a23
+
+[33mcommit baa60636a1d51d361f0009b8400f495680cd984c[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 12:10:01 2023 -0300
+
+    144
+
+[33mcommit b2c7e1b39a5273ebe5b34a7b39cdff8271c97caa[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 12:00:34 2023 -0300
+
+    133
+
+[33mcommit 58faeb6b4cb0f59ead16f6b0a523df3ee7a5794a[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 11:51:34 2023 -0300
+
+    166
+
+[33mcommit 52f00a3abf61f94990d43a418c87dc2d90eba222[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 11:41:36 2023 -0300
+
+    vamoo
+
+[33mcommit 78461be2fbc9025a6da57dc64c3f4d359db53523[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 11:39:20 2023 -0300
+
+    44
+
+[33mcommit dc5bf98efe34337137e0597743af6d3c897fce10[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 11:36:24 2023 -0300
+
+    b11
+
+[33mcommit f418475ee5d81bbd9c22d3369b4d3b2fcd504944[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 11:25:56 2023 -0300
+
+    m22
+
+[33mcommit b14e9249b8ebc0710e2708305bd7e621f0fe47d9[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 11:22:55 2023 -0300
+
+    m13
+
+[33mcommit 15cf05762d16b0c5373d461489afa4fe9cf01897[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 11:06:20 2023 -0300
+
+    1l
+
+[33mcommit a02308c529319141974c6dcef2997e26bc183a18[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 10:54:36 2023 -0300
+
+    m1
+
+[33mcommit e2f92ebca408550dd9e0c330425eff228ea00b2f[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 10:46:01 2023 -0300
+
+    15
+
+[33mcommit dc52abcdbf9d7a3733d53de403fd8cad5fbf4a95[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 10:28:50 2023 -0300
+
+    v1
+
+[33mcommit ff485cd2e3582269ccc24c49732ade77d4333576[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 10:14:41 2023 -0300
+
+    c1
+
+[33mcommit 58c984a1ec64ebe1fdd6fb475a1f534e33bf460a[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 10:03:19 2023 -0300
+
+    a8
+
+[33mcommit 9c7355890d7496e98c87be54198142fa3132c51b[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 05:29:33 2023 -0300
+
+    2552
+
+[33mcommit f1835875cbbb6f16e5785d2f9644b8e558933e07[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 05:21:14 2023 -0300
+
+    514
+
+[33mcommit 84ff64bb07240acae1b95e72878f652bdea6135d[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 05:10:19 2023 -0300
+
+    111
+
+[33mcommit bf907dfdccc75b378ae4998ab74a0400f417a340[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 05:00:00 2023 -0300
+
+    111
+
+[33mcommit 1b6154606ce93cfe71b1c7b96aa193c1fa94d718[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 04:44:43 2023 -0300
+
+    s2
+
+[33mcommit 99de87f413bfe09ee035a477439cd7db8efb31cc[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 04:31:49 2023 -0300
+
+    56
+
+[33mcommit d0a860702ee76287dee090cf4fbab46760e04a0a[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 04:23:23 2023 -0300
+
+    ñ1
+
+[33mcommit 660063cf2e5146e7c5814af2a73ec6a4df017109[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 04:19:29 2023 -0300
+
+    30
+
+[33mcommit e22210ff6c90541edece07795d70a4d2b8b55a4f[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 04:19:14 2023 -0300
+
+    12
+
+[33mcommit c7bb9cee352a65728cf367efe3e1603771001a74[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 04:07:10 2023 -0300
+
+    13
+
+[33mcommit fee7f5b3f8a327e94a4998ff6e6c0851f4d61aa6[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 03:40:14 2023 -0300
+
+    12
+
+[33mcommit f1d4806b5c6e50e3a0e50221fa57a69cc13b90f0[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 03:31:04 2023 -0300
+
+    2
+
+[33mcommit 9d4833b5711cc1380c26ba5a1680ac10be9ff582[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 01:41:05 2023 -0300
+
+    122
+
+[33mcommit 3ad6b1c989d2d35c806afc29dfe4a6be02709e79[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 01:11:51 2023 -0300
+
+    a1
+
+[33mcommit 5a49f9ff81a5034bbbeff17919dd695d9c8230aa[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 00:44:38 2023 -0300
+
+    9
+
+[33mcommit dd595052797aa2ee1bc81a796ea0ec927d18fef6[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 00:34:58 2023 -0300
+
+    8
+
+[33mcommit 47d34c81d22daeb615461c0c5cdf96a0633a55fa[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Wed Mar 8 00:21:30 2023 -0300
+
+    7
+
+[33mcommit 217d67af2dbcd1aa564fdb800822882fbba57427[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Tue Mar 7 23:33:58 2023 -0300
+
+    6
+
+[33mcommit 9a364d5d6a3ce26c8d6b90adbed099b659f5ab2b[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Tue Mar 7 23:16:21 2023 -0300
+
+    5
+
+[33mcommit 29c6a8a0905f888fd643ba8197891beb1db0df3d[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Tue Mar 7 23:13:49 2023 -0300
+
+    3
+
+[33mcommit a8ec57f67e016fd5b21b5305d009679b905bbf74[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Tue Mar 7 23:03:07 2023 -0300
+
+    3
+
+[33mcommit 46beb4a7d6c8859668d637c7dc3506355e856e3a[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Tue Mar 7 22:38:03 2023 -0300
+
+    2
+
+[33mcommit f75fd62db45b599c1f3055122d4f33fc15c0f4dd[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Tue Mar 7 22:33:31 2023 -0300
+
+    1
+
+[33mcommit bc435bc518f85b94c63512a3914a3051fae49b31[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Tue Mar 7 22:27:06 2023 -0300
+
+    ahora
+    
+    si
+
+[33mcommit 8af09bf7d346634be6922743c8a12eb36c94c15b[m
+Author: Leonardo Arias <leo.ariass@hotmail.com>
+Date:   Tue Mar 7 22:15:20 2023 -0300
+
+    cambiando
+    
+    camboi1
+
+[33mcommit 868f8a3505969b381c4920aa7f6607c693dd00e6[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Tue Mar 7 19:16:03 2023 -0300
+
+    Ultima
+
+[33mcommit 06930217f72b414033cc056846ce7b6147382b6d[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Tue Mar 7 19:05:36 2023 -0300
+
+    correccion
+
+[33mcommit 468c69d51a3e0b28539ee0250b1a0ff4286afc05[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Tue Mar 7 18:44:56 2023 -0300
+
+    Dockerfile
+
+[33mcommit 05fba6f0ba54a27a9b838bfad412124d5986a45c[m
+Author: Leonardo Arias <89089793+leoarias@users.noreply.github.com>
+Date:   Fri Jan 27 14:25:55 2023 -0300
+
+    Initial commit
