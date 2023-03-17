@@ -23,7 +23,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("red")
-@CrossOrigin(origins="https://argpro.onrender.com")
+@CrossOrigin(origins="https://front-end-leo.web.app")
 public class RedControlador {
     @Autowired
     RedService sRed;

@@ -21,7 +21,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("habilidad")//localhost:8080/habilidad
-@CrossOrigin(origins="https://argpro.onrender.com")//direccion del front de angular
+@CrossOrigin(origins="https://front-end-leo.web.app")//direccion del front de angular
 public class HabilidadControlador {
    
     @Autowired
