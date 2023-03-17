@@ -1,4 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: com.portfolio.yoProgramo.YoProgramoApplicationTests
 -------------------------------------------------------------------------------
+<<<<<<< HEAD
 Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 21.347 s - in com.portfolio.yoProgramo.YoProgramoApplicationTests
+=======
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 28.149 s - in com.portfolio.yoProgramo.YoProgramoApplicationTests
+>>>>>>> 9d3b44418ae432cd02473a44f33a8f1d4763ff1d
