@@ -31,7 +31,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("/auth")
-@CrossOrigin
+@CrossOrigin(origins="https://argpro.onrender.com")
 public class AuthController {
     @Autowired
     PasswordEncoder passwordEncoder;
